@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,unist_util-visit",
+    "logging_enabled": "false",
+    "name": "unist_util-visitSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "unist_util-visitSmokeTest.js"
+}
